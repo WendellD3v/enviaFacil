@@ -1,0 +1,21 @@
+{
+  "name": "api-enc",
+  "version": "1.0.0",
+  "description": "Sistema desenvolvido por encomenda pela Cyber Scripts - @2024",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "WendellD3v",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
